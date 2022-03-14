@@ -13,10 +13,10 @@
       "reminder": false
     },
     {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "March 3st at 11:00am",
-      "reminder": true
+      "text": "Test1",
+      "day": "Test1",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
